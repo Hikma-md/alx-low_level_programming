@@ -2,7 +2,7 @@
 	#include <time.h>
 	#include <stdio.h>
 	/**
-	 * main - Differs the no whether it is positive or not.
+	 * main - prints the no whether it is positive or not
 	 *
 	 * Return: 0
 	 */
