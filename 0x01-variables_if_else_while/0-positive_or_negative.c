@@ -1,6 +1,6 @@
 include <stdlib.h>
-#include <time.h>
-#include <stdio.h>
+include <time.h>
+include <stdio.h>
 /*
  * a code that differs the no whether it is positive or not 
 */
