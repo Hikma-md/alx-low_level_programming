@@ -3,6 +3,7 @@
 	#include <stdio.h>
 	/**
 	 * main - Differs the no whether it is positive or not.
+	 *
 	 * Return: Always 0
 	 */
 	int main(void)
