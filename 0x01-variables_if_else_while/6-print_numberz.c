@@ -6,12 +6,11 @@
  */
 int main(void)
 {
-A[11] = "0123456789";
 	int i;
 
 	for (i = 12; i < 22; i++)
 	{
-		putchar(A[i]);
+		putchar(i);
 	}
 	putchar('\n');
 	return (0);
