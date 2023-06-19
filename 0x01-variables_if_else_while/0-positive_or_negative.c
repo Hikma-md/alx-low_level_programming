@@ -2,9 +2,9 @@
 	#include <time.h>
 	#include <stdio.h>
 	/**
-	 *  a code that differs the no whether it is positive or not 
-	 *  and zero 
-	 */
+	*  a code that differs the no whether it is positive or not 
+	*  and zero 
+	*/
 
 	/* its the main part */
 	int main(void)
@@ -13,6 +13,7 @@
 
 		srand(time(0));
 		n = rand() - RAND_MAX / 2;
+		/* jhjhjjh */
 		if (n > 0)
 		{
 			printf("%d is positive\n", n);
@@ -23,6 +24,7 @@
 		}
 		else
 		{
-			printf("%d is negative\n", n);}
+			printf("%d is negative\n", n);
+		}
 		return (0);
 	}
