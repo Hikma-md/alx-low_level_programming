@@ -6,10 +6,10 @@
  */
 int main(void)
 {
-	char alpha[26] = "abcdefghijklmnopqrstuvwxyz";
+char alpha[26] = "zyxwvutsrqponmlkjihgfedcba";
 	int i;
 	
-	for (i = 0; i < 26; i--)
+	for (i = 0; i < 26; i++)
 	{
 		putchar(alpha[i]);
 	}
