@@ -1,8 +1,8 @@
 include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* 
-* a code that differs the no whether it is posit* a code that differs the no whether it is positive ositive or not
+/*
+ * a code that differs the no whether it is positive or not 
 */
 int main(void)
 {
@@ -10,13 +10,13 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-        if(n > 0)
+        if (n > 0)
         {
                 printf("%d is positive\n", n);
         }
         else if (n == 0)
         {
-                printf("%d is zero\n";
+                printf("%d is zero\n", n);
         }
         else
         {
