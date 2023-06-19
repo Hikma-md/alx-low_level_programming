@@ -1,10 +1,7 @@
 	#include <stdlib.h>
 	#include <time.h>
 	#include <stdio.h>
-	/**
-	*  a code that differs the no whether it is positive or not 
-	*  and zero 
-	*/
+	/*  a code that differs the no whether it is positive or not */
 
 	/* its the main part */
 	int main(void)
