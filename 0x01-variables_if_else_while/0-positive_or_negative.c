@@ -1,16 +1,17 @@
 	#include <stdlib.h>
 	#include <time.h>
 	#include <stdio.h>
-	/*  a code that differs the no whether it is positive or not */
-
-	/* its the main part */
+	/**
+	 * main - Differs the no whether it is positive or not.
+	 * Return: Always 0
+	 */
 	int main(void)
 	{
 		int n;
 
 		srand(time(0));
 		n = rand() - RAND_MAX / 2;
-		/* jhjhjjh */
+
 		if (n > 0)
 		{
 			printf("%d is positive\n", n);
