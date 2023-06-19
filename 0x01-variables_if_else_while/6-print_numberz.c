@@ -11,7 +11,7 @@ string A[11] = "0123456789";
 
 	for (i = 12; i < 22; i++)
 	{
-		putchar(i);
+		putchar(A[i]);
 	}
 	putchar('\n');
 	return (0);
