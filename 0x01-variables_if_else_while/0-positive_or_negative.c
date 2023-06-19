@@ -1,9 +1,7 @@
-include <stdlib.h>
-include <time.h>
+#include <stdlib.h>
+#include <time.h>
 include <stdio.h>
-/*
- * a code that differs the no whether it is positive or not 
-*/
+/* a code that differs the no whether it is positive or not */
 int main(void)
 {
 	int n;
