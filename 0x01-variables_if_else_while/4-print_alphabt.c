@@ -9,9 +9,9 @@ int main(void)
 char alpha[26] = "abcdefghijklmnopqrstuvwxyz";
 	int j;
 
-	for (j = 1; j < 26; j++)
+	for (j = 0; j < 26; j++)
 	{
-		if (j != 5 && j != 16)
+		if (j != 4 && j != 16)
 		{
 			putchar(alpha[j]);
 		}
