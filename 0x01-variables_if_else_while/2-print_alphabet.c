@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - prints lower case letters
  *
@@ -7,7 +6,7 @@
  */
 int main(void)
 {
-	char alpha[26] = " abcdefghijklmnopqrstuvwxyz";
+	char alpha[26] = "abcdefghijklmnopqrstuvwxyz";
 	int j;
 
 	for (j = 0; j < 26; j++)
