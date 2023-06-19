@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-char A[11] = "0123456789";
+int A[11] = "0123456789";
 	int i;
 
 	for (i = 12; i < 22; i++)
