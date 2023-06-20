@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * _abs _ fun compute absolute value of int
+ * _abs _ function that compute the absolute value
+ *  of integer
  *
  * @n: takes in int type
  *
