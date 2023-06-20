@@ -1,7 +1,7 @@
 #include "main.h"
 #include <unistd.h>
 /**
- * _putchar - print character
+ * print character
  * Return: 1
  */
 int _putchar(char c)
