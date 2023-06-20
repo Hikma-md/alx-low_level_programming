@@ -1,10 +1,11 @@
 #include "main.h"
+
 /**
  * prints 1 0 and -1
  *
- * if n positive 1 
- * if n negative -1
+ * if n positive 1  
  */
+
 int print_sign(int n)
 {
 	if (n > 0)
